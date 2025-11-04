@@ -12,7 +12,7 @@ A full-stack e-commerce platform leveraging modern JavaScript and AI capabilitie
 
 ## Features
 
-- Advanced AI-driven product recommendations (coming soon)
+- speak and navigate and more Advanced AI-driven product recommendations (coming soon)
 - User authentication and secure sessions
 - Product catalog: browse, search, and filter items
 - Shopping cart with add/remove items, quantity updates

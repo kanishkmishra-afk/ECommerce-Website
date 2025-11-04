@@ -23,11 +23,11 @@ A full-stack e-commerce platform leveraging modern JavaScript and AI capabilitie
 
 ## Tech Stack
 
-- **Frontend:** React.js, Redux, Tailwind CSS (or your choice)
+- **Frontend:** React.js, contextAPI, Tailwind CSS 
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **AI:** Integration planned for recommendation engine and chatbot
-- **Deployment:** Vercel for frontend, backend (details)
+- **Deployment:** Render for frontend and backend
 
 ## Installation
 

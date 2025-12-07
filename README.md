@@ -1,7 +1,7 @@
 
 ***
 
-# AI Powered E-Commerce Website
+# E-Commerce Full-Stack Platform
 
 A full-stack e-commerce platform leveraging modern JavaScript and AI capabilities to deliver smart shopping experiences.
 
